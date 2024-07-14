@@ -1,0 +1,14 @@
+# Folders
+/node_modules
+/.vitepress/cache
+/.vitepress/dist
+
+# Files
+.DS_Store
+
+# Alternative Package Locks
+pnpm-lock.yaml
+yarn.lock
+
+# LanguageTool Dictionaries and False Positives
+.vscode/*.txt
