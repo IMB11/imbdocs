@@ -12,5 +12,5 @@ This section of the documentation is dedicated to the [Sounds](https://modrinth.
 
 ### Configuration
 
-- [Configuring Sound Events](/sounds/config/configuring-sound-events)
+- [Configuring Sound Events](/sounds/config/configuring-pitch-volume)
 - [Changing Pitch and Volume](/sounds/config/configuring-sound-types)
