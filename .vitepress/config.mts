@@ -53,6 +53,20 @@ export default defineConfig({
             ]
           }
         ]
+      },
+      {
+        text: "SkinShuffle",
+        link: "/skinshuffle/",
+        items: [
+          {
+            text: "Hot Reloading Skins",
+            link: "/skinshuffle/hot-reloading-skins"
+          },
+          {
+            text: "Skin Preset Editor",
+            link: "/skinshuffle/skin-preset-editor"
+          }
+        ]
       }
     ],
 
