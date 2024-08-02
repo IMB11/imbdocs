@@ -67,6 +67,16 @@ export default defineConfig({
             link: "/skinshuffle/skin-preset-editor"
           }
         ]
+      },
+      {
+        text: "Fog",
+        link: "/fog/",
+        items: [
+          {
+            text: "Fog Definitions",
+            link: "/fog/fog-definitions"
+          }
+        ]
       }
     ],
 
