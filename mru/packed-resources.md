@@ -23,3 +23,7 @@ Unpacker.register(MRUFabric.class, new UnpackedResourcePack("mru", LoaderUtils.g
 ```
 
 This will register the `mru` resource pack to be unpacked to the `.minecraft/mru` folder. The `mru` folder will be created if it doesn't exist, and the resource pack will be unpacked to it. When the game reloads resources, MRU will automatically register the `UnpackedResourcePack` for you.
+
+::: info
+Your unpacked resource pack will always be at the bottom of the resource pack list to allow resource packs to override it.
+:::
