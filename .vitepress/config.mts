@@ -19,6 +19,20 @@ export default defineConfig({
     
     sidebar: [
       {
+        text: "MRU",
+        link: "/mru/",
+        items: [
+          {
+            text: "Packed Resources",
+            link: "/mru/packed-resources"
+          },
+          {
+            text: "YACL Helpers",
+            link: "/mru/yacl-helpers"
+          }
+        ]
+      },
+      {
         text: "Sounds",
         link: "/sounds/",
         items: [
