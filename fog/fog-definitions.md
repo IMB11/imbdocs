@@ -26,7 +26,7 @@ Fog definitions can also be specified per-tag.
 
 ## Editing Fog Definitions
 
-You can either create your own resource pack or use the exposed resource pack found within `.minecraft/config/fog/fog_definitions` which contain default fog definitions for various biomes and biome tags. 
+You can must create your own resource pack to edit fog definitions. Consider looking into the default resource pack which can be found in the `/src/main/generated/assets/` folder of the project's source code. (These files are CC-0, you can copy and reuse them as you wish.)
 
 ### Example
 

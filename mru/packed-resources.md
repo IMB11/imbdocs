@@ -1,5 +1,9 @@
 # Packed Resources API
 
+::: danger
+This API is now deprecated, it's not recommended to use it.
+:::
+
 The Packed Resources API is a part of the M.R.U library that allows you to distribute a "default" resource pack with your mod and then place it in an external location, such as the `.minecraft` folder, allowing users to easily edit the resource pack without having to extract it from the mod jar - it also allows you to create various editors for the resource pack due to the fact it's now external and editable using normal file system tools.
 
 ## Usage
